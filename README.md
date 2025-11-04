@@ -122,3 +122,9 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 π`[]、； ‘，。/！·#￥%……—*…（）～…——+—{—}—|—：“《》？〈〉@&
 。，、＇：∶；?‘’“”〝〞ˆˇ﹕︰﹔﹖﹑·¨….¸;！´？！～—ˉ｜‖＂〃｀@﹫¡¿﹏﹋﹌︴々﹟#﹩$﹠&﹪%*﹡﹢﹦﹤‐￣¯―﹨ˆ˜﹍﹎+=<＿_-\ˇ~﹉﹊（）〈〉‹›﹛﹜『』〖〗［］《》〔〕{}「」【】〔〕
 ```
+
+## ttf 转 base64
+
+```shell
+https://rawgit.com/MrRio/jsPDF/master/fontconverter/fontconverter.html
+```
