@@ -126,5 +126,12 @@ ABCDEFGHIJKLMNOPQRSTUVWXYZ
 ## ttf 转 base64
 
 ```shell
+# 在线转换
 https://rawgit.com/MrRio/jsPDF/master/fontconverter/fontconverter.html
+
+# 本地转换（字体完整版）, 字体文件在 src 目录
+node font2base64.js --dir src  --out jspdf_fonts
+
+# 推荐：本地转换（字体精简版）, 字体文件在 dist 目录, 输出文件为 jspdf_fonts_simplify
+node font2base64.js --dir dist  --out jspdf_fonts_simplify
 ```
