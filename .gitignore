@@ -7,5 +7,6 @@
 .idea
 
 dist
+node_modules
 jspdf_fonts
 jspdf_fonts_simplify

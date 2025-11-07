@@ -1,0 +1,17 @@
+{
+  "name": "sourcehansanscn-ttf-min",
+  "version": "1.0.0",
+  "description": "- 本仓库中精简的字体如下：\r   - 思源宋体 otf\r   - 思源黑体 ttf\r   - 阿里巴巴普惠体 otf + ttf\r - 字体数据仅包含基础常用的中文、英文字符及符号\r - 字体内容（3500常用字）见文末\r - 可用于 web 端、pdf 等",
+  "main": "font2base64.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cnchar": "^3.2.6",
+    "cnchar-order": "^3.2.6",
+    "fontkit": "^2.0.4"
+  }
+}
